@@ -29,7 +29,7 @@ public class Ex1 {
 			{
 				maiorNumero = n2;
 			}
-			else if(maiorNumero < n3)
+			if(maiorNumero < n3)
 			{
 				maiorNumero = n3;
 			}
