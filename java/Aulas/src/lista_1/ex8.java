@@ -3,6 +3,7 @@
 // Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, 
 //escrever um sistema que leia o custo de fábrica de um carro e escreva o custo ao consumidor. 
 
+package lista_1;
 
 import java.util.Scanner;
 
