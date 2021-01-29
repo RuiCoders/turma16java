@@ -66,7 +66,7 @@ public class Ex4 {
 			System.out.println("São "+pessoaCalma+" pessoas calmas;");	
 			System.out.println(" "+mulherNervosa+" mulheres nervosas;");
 			System.out.println(" "+homemAgressivo+" homens agressivos;");	
-			System.out.println(" "+outrosCalma+" outros calmes;");
+			System.out.println(" "+outrosCalma+" outros calmos;");
 			System.out.println(" "+pessoaNervosa40+" pessoas nervosas com mais de 40 anos;");	
 			System.out.println(" "+pessoaCalma18+" pessoas calmas com menos de 18 anos");
 			ler.close();
