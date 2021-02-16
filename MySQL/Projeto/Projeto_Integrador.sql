@@ -1,3 +1,6 @@
+create database db_e_commerce_projeto;
+
+use db_e_commerce_projeto;
 CREATE TABLE tb_produto (
 	id INT NOT NULL AUTO_INCREMENT,
 	nomeProduto varchar(255) NOT NULL,
